@@ -19,4 +19,4 @@ public class SpringBootFirstWebApplication extends SpringBootServletInitializer 
 		SpringApplication.run(SpringBootFirstWebApplication.class, args);
 	}
 
-}
+} 
